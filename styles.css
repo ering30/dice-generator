@@ -1,0 +1,55 @@
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: small;
+    text-align: center;
+}
+h4 {font-family: Helvetica, sans-serif;
+    font-size: x-large;
+    text-align:center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+p {
+    font-family: Helvetica, sans-serif;
+    font-size: x-small;
+    font-weight: light;
+    text-align: center;
+}
+form {
+    text-align: center;
+}
+.card {
+    margin: 50px auto;
+    width: 500px;
+    padding: 20px;
+    box-shadow: 3px 3px 10px gray;
+}
+input[type=text] {
+    padding: 12px 20px;
+    margin: 20px 0;
+    font-size: small;
+}
+input[type=button] {
+    background-color: #dcdcdc;
+    border: none;
+    color: rgb(50, 50, 50);
+    padding: 14px 24px;
+    text-decoration: none;
+    margin: 4px 10px 5px;
+    cursor: pointer;
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+    border-radius: 3px;
+    font-size: small;
+    font-style: oblique;
+}
+footer {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
